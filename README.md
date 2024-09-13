@@ -1,2 +1,2 @@
 # cps
-Material de apoio para os alunos
+Material de apoio para os alunos da Etec
